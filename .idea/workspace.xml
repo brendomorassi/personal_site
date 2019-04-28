@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40f99b8a-1765-4243-96d5-4c5c17f5bd4f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +25,10 @@
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#5559#5565#0" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#7179#7185#0" expanded="true" />
-                <element signature="e#7346#7352#0" expanded="true" />
-                <element signature="e#7367#7373#0" expanded="true" />
-                <element signature="e#7384#7390#0" expanded="true" />
+                <element signature="e#7087#7093#0" expanded="true" />
+                <element signature="e#8784#8790#0" expanded="true" />
+                <element signature="e#8805#8811#0" expanded="true" />
+                <element signature="e#8822#8828#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,12 +112,12 @@
       <updated>1556160036343</updated>
       <workItem from="1556160037749" duration="1430000" />
       <workItem from="1556325413188" duration="358000" />
-      <workItem from="1556482976747" duration="3415000" />
+      <workItem from="1556482976747" duration="3584000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5203000" />
+    <option name="totallyTimeSpent" value="5372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -168,11 +166,10 @@
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#5559#5565#0" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#7179#7185#0" expanded="true" />
-            <element signature="e#7346#7352#0" expanded="true" />
-            <element signature="e#7367#7373#0" expanded="true" />
-            <element signature="e#7384#7390#0" expanded="true" />
+            <element signature="e#7087#7093#0" expanded="true" />
+            <element signature="e#8784#8790#0" expanded="true" />
+            <element signature="e#8805#8811#0" expanded="true" />
+            <element signature="e#8822#8828#0" expanded="true" />
           </folding>
         </state>
       </provider>
